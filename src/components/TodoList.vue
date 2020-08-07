@@ -50,10 +50,8 @@ export default {
             loading:false,
             posts:null,
             todos :[
-                {todoString:'code landing page',completed:false},
-                {todoString:'code some stuff in backend',completed:false},
-                {todoString:'meeting with Recommend',completed:true},
-                {todoString:'meeting with the Cars App',completed:false}
+                //{todoString:'code landing page',completed:false},
+               
             ]
         }
     },
